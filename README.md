@@ -68,4 +68,6 @@ Below are some key parameters of the XGBoost model:
 
 ## Results
 
-The model achieved an 81.99% accuracy, correctly classifying 4,491 data points out of 5,150 in the positive class.
+The enhanced XGBoost model with 45 estimators achieved an accuracy of 82%, reflecting robust overall performance. However, the key focus lies in its ability to correctly identify cancellations (Class 1), which are critical for business decisions.
+
+The recall of 74% for Class 1 indicates that the model successfully identifies most cancellations, though there is still room for improvement. Balancing precision and recall ensures fewer false positives while effectively capturing a majority of cancellations—crucial for strategies aimed at reducing booking disruptions.
