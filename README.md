@@ -8,15 +8,15 @@ In the hotel industry, it is essential to estimate whether a customer will follo
 1. Objective
 2. Problem Context
 3. Model Implementation
-    a. Importing libraries
-    b. Data reading and analysis
-    c. Data splitting
-    d. Base model
-    e. XGBoost and the optimal number of estimators
-    f. Training and results of the best model
-    g. Feature analysis
-    h. Conclusions
-    i. Final comments and further steps
+    * a. Importing libraries
+    * b. Data reading and analysis
+    * c. Data splitting
+    * d. Base model
+    * e. XGBoost and the optimal number of estimators
+    * f. Training and results of the best model
+    * g. Feature analysis
+    * h. Conclusions
+    * i. Final comments and further steps
 
 
 ## Dataset Description and Dictionary
