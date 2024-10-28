@@ -15,8 +15,8 @@ In the hotel industry, it is essential to estimate whether a customer will follo
     * e. XGBoost and the optimal number of estimators
     * f. Training and results of the best model
     * g. Feature analysis
-    * h. Conclusions
-    * i. Final comments and further steps
+4. Conclusions
+5. Final comments and further steps
 
 
 ## Dataset Description and Dictionary
