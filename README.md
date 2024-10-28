@@ -48,7 +48,7 @@ The dataset contains various attributes related to customers' reservation detail
 
 ## Acknowledgements
 
-This project builds on an original exercise completed during my Master's in Artificial Intelligence. The dataset for this project was sourced from: https://www.kaggle.com/datasets/gauravduttakiit/reservation-cancellation-prediction
+This project builds on an original exercise completed during my Master's in Artificial Intelligence. The dataset for this project was sourced from: https://bit.ly/4e3bnQD
 
 
 ## Model Theory
